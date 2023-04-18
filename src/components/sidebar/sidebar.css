@@ -1,5 +1,7 @@
 .sidebar {
   flex: 3;
+  position: relative;
+  right: 0;
   margin: 20px 5px;
   padding-bottom: 30px;
   background-color: #fdfbfb;
